@@ -80,6 +80,15 @@
 
 }
 
+@media only screen and (max-width:810px) {
+
+    .footer-nav {
+        width: 110%;
+    }
+}
+
+
+
 @media only screen and (max-width:767px) {
 
     body {
@@ -152,6 +161,10 @@
         text-align: center;
     }
 
+    .works-step p {
+        padding-top: 10px;
+    }
+
     .works-step div {
         font-size: 120%;
         height: 40px;
@@ -160,12 +173,35 @@
         margin-right: 15px;
     }
 
-    .works-step {
-        margin-bottom: 20px;
-    }
     .works-step:last-of-type {
         margin-bottom: 20px;
     }
+
+    .steps-btn {
+        text-align: center;
+    }
+
+    .footer-nav {
+        width: 100%;
+        text-align: center;
+    }
+    .social-links {
+        width: 100%;
+        text-align: center;
+    }
+    footer p {
+        margin: 0;
+    }
+
+}
+
+@media only screen and (max-width:686px) {
+
+
+    .works-step p {
+        padding-top: 8px;
+    }
+
 
 }
 
@@ -177,6 +213,12 @@
     }
     .contact-form {
         width: 100%;
+    }
+    footer {
+        padding: 7% 0;
+    }
+    .social-links {
+        padding: 2% 0;
     }
 
 }
