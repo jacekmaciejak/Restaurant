@@ -5,7 +5,7 @@ https://jacekmaciejak.github.io/Restaurant/
 The site has been built using the following technologies:
 
    - HTML5,
-   - SCSS,
+   - CSS3,
    - Grid Layout,
    - Responsive web design,
    - JavaScript.
