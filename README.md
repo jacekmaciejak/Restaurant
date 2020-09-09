@@ -1,6 +1,6 @@
 # Restaurant
 
-https://jacekmaciejak.github.io/Restaurant/
+### [Live Site](https://jacekmaciejak.github.io/Restaurant/)
 
 The site has been built using the following technologies:
 
